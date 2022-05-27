@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:KPu3MdNXCScye05Sp4JlE9WwhS9k3yD9KRoRDHg5sDE="
+      ],
+      "url": "terraform-provider-aws_4.15.1_linux_amd64.zip"
+    }
+  }
+}

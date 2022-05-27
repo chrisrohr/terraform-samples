@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:ODcR+vWOhCAJ2iCChZMVdRglNCx07VNr67OPLRPZyDY="
+      ],
+      "url": "terraform-provider-dns_3.2.3_linux_amd64.zip"
+    }
+  }
+}

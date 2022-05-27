@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:PexyQBRLDA+SR+sWlzYBZswry5O5h/tTfj87CaECtLc="
+      ],
+      "url": "terraform-provider-consul_2.15.1_linux_amd64.zip"
+    }
+  }
+}

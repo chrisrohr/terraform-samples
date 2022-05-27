@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:bXAbuGy5MStp9n4dqmeueEutLHuuWpYWZBFb6YrPWu8="
+      ],
+      "url": "terraform-provider-vault_3.6.0_linux_amd64.zip"
+    }
+  }
+}
